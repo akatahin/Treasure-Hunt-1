@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: yellow;
+}
+
+img {
+    width: 200px;
+    border: double 5px yellow;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+button {
+    width: 350px;   
+    height: 75px;
+    font-size: 30px;
+    background: black;
+    color: yellow;
+    border-radius: 5px;
+    border: double yellow 5px;
+    font-family: 'Fugaz One', cursive;
+}
+
+p {
+    font-size: 25px;
+}
+    
+    
+    
